@@ -27,9 +27,10 @@ void main(List<String> args) {
       : sayi2; // if kısmı "?" else kısmı ":" ile ifade edilir
   print("Küçük sayı : $kucukSayi ");
 
-  String? ad = "Deha";
+  String? ad = null;
   String? soyad = null;
   String? mesaj;
+  soyad = "50";
 
   mesaj = ad ?? soyad;
   print("Merhaba $mesaj");
