@@ -8,7 +8,7 @@ void main(List<String> args) {
   m2.cikar();
 
   print(Matematik.PI);
-  Matematik.sinifAdiniSoyle();
+  Matematik.sinifAdiniSoyle(); //classtan çağırıyoruz.
 
   print("Toplam işlem sayısı ${Matematik.toplamIslemSayisi}");
 }
