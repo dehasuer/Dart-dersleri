@@ -16,7 +16,7 @@ void main(List<String> args) {
 
   List<String> liste = []; //sadece stringlerden oluşacak bir liste tanımlandı.
   liste.add("deha");
-  liste.add("asdasd")
+  liste.add("asdasd");
 
   yazdir(liste);
 
