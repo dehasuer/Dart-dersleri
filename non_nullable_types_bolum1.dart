@@ -7,6 +7,6 @@
 void main(List<String> args) {
   //nullable
   int? a;
-  a = null;
+  a = null; //değişkeni null olarak tanımlayabiliyorum
   print("a değişkenin değeri $a");
 }
